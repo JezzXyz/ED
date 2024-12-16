@@ -1,19 +1,18 @@
 // @ts-ignore
-// 
 import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
-const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
+const proxyIPs = ['35.219.15.90:443'];
 
 // if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 // use single proxyip instead of random
-// let proxyIP = 'cdn.xn--b6gac.eu.org';
+// let proxyIP = '35.219.15.90:443';
 // ipv6 proxyIP example remove comment to use
-// let proxyIP = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
+// let proxyIP = "[35.219.15.90:443]"
 
 // Example:  user:pass@host:port  or  host:port
 let socks5Address = '';
@@ -588,4 +587,5 @@ async function handleUDPOutBound(webSocket, protocolResponseHeader, log) {
 				if (isprotocolHeaderSent) {
 					webSocket.send(await new Blob([udpSizeBuffer, dnsQueryResult]).arrayBuffer());
 				} else {
-					webSocket.send(await new Blob([protocolRespons
+					webSocket.send(await new Blob([protocolResponseHeader, udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+					isprotocolHeaderS
