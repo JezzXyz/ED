@@ -1,1 +1,590 @@
-const a0_0x1db297=a0_0x898b;(function(_0x256f82,_0x3a97b3){const _0x362c6a=a0_0x898b,_0x1bd2e4=_0x256f82();while(!![]){try{const _0x5ee7f9=-parseInt(_0x362c6a(0x11a,'\x29\x6f\x72\x50'))/0x1+parseInt(_0x362c6a(0x14a,'\x53\x39\x77\x4e'))/0x2+-parseInt(_0x362c6a(0x2f5,'\x61\x46\x59\x55'))/0x3+parseInt(_0x362c6a(0x2d9,'\x5a\x21\x63\x68'))/0x4*(-parseInt(_0x362c6a(0x636,'\x72\x58\x68\x28'))/0x5)+-parseInt(_0x362c6a(0x5bc,'\x45\x79\x4d\x49'))/0x6*(-parseInt(_0x362c6a(0x408,'\x39\x24\x6b\x4b'))/0x7)+parseInt(_0x362c6a(0x3a6,'\x4f\x77\x30\x44'))/0x8*(-parseInt(_0x362c6a(0x1e7,'\x61\x63\x6c\x34'))/0x9)+parseInt(_0x362c6a(0x35b,'\x53\x39\x77\x4e'))/0xa*(parseInt(_0x362c6a(0x28c,'\x32\x58\x38\x23'))/0xb);if(_0x5ee7f9===_0x3a97b3)break;else _0x1bd2e4['push'](_0x1bd2e4['shift']());}catch(_0x75cad2){_0x1bd2e4['push'](_0x1bd2e4['shift']());}}}(a0_0x1cf4,0x558c4));import{connect}from'\x63\x6c\x6f\x75\x64\x66\x6c\x61\x72\x65\x3a\x73\x6f\x63\x6b\x65\x74\x73';let a0_0xaa7123=a0_0x1db297(0x115,'\x29\x59\x74\x64');const a0_0x4a6d13=[a0_0x1db297(0x5b2,'\x33\x71\x49\x51'),a0_0x1db297(0x104,'\x53\x4d\x68\x40')];let a0_0x1b8029=a0_0x4a6d13[Math[a0_0x1db297(0x11b,'\x29\x6f\x72\x50')](Math[a0_0x1db297(0x2cc,'\x4c\x41\x5a\x31')]()*a0_0x4a6d13[a0_0x1db297(0x18a,'\x61\x46\x59\x55')])],a0_0x540d61=a0_0x1b8029[a0_0x1db297(0x506,'\x72\x4b\x4f\x76')]('\x3a')?a0_0x1b8029[a0_0x1db297(0x37c,'\x4c\x28\x79\x39')]('\x3a')[0x1]:a0_0x1db297(0x222,'\x5a\x21\x63\x68'),a0_0x20f603='',a0_0x270c07=![];if(!a0_0x15259b(a0_0xaa7123))throw new Error(a0_0x1db297(0x5ec,'\x6e\x6f\x4a\x69'));let a0_0x11b54a={},a0_0x51ca75=![];export default{async '\x66\x65\x74\x63\x68'(_0x3213c6,_0x1aeb0c,_0x1c7092){const _0x5d5e7f=a0_0x1db297,_0x513c2a={'\x43\x52\x53\x61\x68':_0x5d5e7f(0x56a,'\x64\x71\x35\x41'),'\x47\x6f\x66\x59\x46':function(_0x3dbb42,_0x2ccc1a){return _0x3dbb42(_0x2ccc1a);},'\x6c\x50\x74\x69\x71':function(_0x34a4d2,_0x27812b){return _0x34a4d2!==_0x27812b;},'\x47\x6c\x79\x70\x57':_0x5d5e7f(0x364,'\x33\x71\x49\x51'),'\x44\x62\x79\x76\x45':_0x5d5e7f(0x3e2,'\x58\x45\x5d\x25'),'\x78\x4f\x66\x55\x53':function(_0xc9d50e,_0x28c78d){return _0xc9d50e+_0x28c78d;},'\x59\x7a\x47\x7a\x4f':function(_0x5f110b,_0x28681a){return _0x5f110b+_0x28681a;},'\x76\x4d\x71\x61\x66':function(_0x49752a,_0x497950){return _0x49752a+_0x497950;},'\x64\x54\x78\x45\x70':function(_0x1dbcc4,_0x59491f){return _0x1dbcc4+_0x59491f;},'\x73\x6a\x57\x78\x78':function(_0x5b9f63,_0x397e8a){return _0x5b9f63+_0x397e8a;},'\x78\x4c\x57\x51\x4f':function(_0x1f8b89,_0x120df5){return _0x1f8b89+_0x120df5;},'\x42\x4d\x6f\x51\x57':function(_0x1c55b8,_0x5679f0){return _0x1c55b8+_0x5679f0;},'\x6a\x42\x7a\x4f\x4f':function(_0xd93e72,_0x4b60e4){return _0xd93e72(_0x4b60e4);},'\x66\x52\x71\x6c\x4e':_0x5d5e7f(0x1a4,'\x69\x33\x30\x47'),'\x42\x58\x6b\x54\x45':function(_0x4e6f80,_0x2acab9){return _0x4e6f80===_0x2acab9;},'\x79\x57\x47\x42\x4c':_0x5d5e7f(0x122,'\x31\x75\x57\x31'),'\x51\x41\x62\x4f\x55':function(_0x5d02ff,_0x2eeb6d){return _0x5d02ff===_0x2eeb6d;},'\x4b\x70\x5a\x68\x56':function(_0x2f2579,_0x169c62){return _0x2f2579===_0x169c62;},'\x6a\x54\x4a\x49\x52':_0x5d5e7f(0x56b,'\x2a\x58\x50\x32'),'\x66\x5a\x65\x65\x4b':function(_0x12cc3a,_0x2f773b){return _0x12cc3a!==_0x2f773b;},'\x62\x62\x48\x47\x72':_0x5d5e7f(0x3b9,'\x34\x57\x28\x44'),'\x75\x72\x68\x42\x6f':_0x5d5e7f(0x145,'\x53\x4d\x68\x40'),'\x50\x62\x42\x59\x5a':function(_0x1320b2,_0x59b712){return _0x1320b2||_0x59b712;},'\x71\x63\x59\x41\x64':function(_0x559951,_0x413b54){return _0x559951||_0x413b54;},'\x44\x47\x46\x71\x6c':function(_0xdea25c,_0x531e95){return _0xdea25c(_0x531e95);},'\x50\x53\x4a\x49\x67':_0x5d5e7f(0x1ac,'\x72\x4b\x4f\x76'),'\x58\x76\x75\x76\x75':_0x5d5e7f(0xb4,'\x79\x25\x30\x56'),'\x79\x59\x79\x70\x62':function(_0x28ed67,_0x1bd0f8){return _0x28ed67(_0x1bd0f8);},'\x50\x45\x6d\x67\x57':_0x5d5e7f(0x318,'\x31\x69\x77\x79'),'\x69\x6b\x48\x66\x51':_0x5d5e7f(0x59a,'\x43\x68\x6c\x6f'),'\x50\x54\x48\x6e\x55':function(_0x302697,_0x135b00){return _0x302697===_0x135b00;},'\x4b\x4a\x65\x75\x4c':function(_0x1f6fd9,_0x42e55e){return _0x1f6fd9===_0x42e55e;},'\x73\x64\x6d\x4b\x7a':function(_0x167588,_0x1448a9){return _0x167588===_0x1448a9;},'\x6a\x4e\x63\x4d\x73':function(_0x112ce8,_0x6d99b2){return _0x112ce8!==_0x6d99b2;},'\x66\x49\x5a\x5a\x70':_0x5d5e7f(0x225,'\x29\x59\x74\x64'),'\x62\x6e\x4b\x51\x66':_0x5d5e7f(0x257,'\x64\x71\x35\x41'),'\x52\x75\x5a\x4f\x68':function(_0x5595d1,_0x54f04b){return _0x5595d1===_0x54f04b;},'\x4c\x62\x55\x74\x57':_0x5d5e7f(0x49a,'\x29\x59\x74\x64'),'\x57\x6c\x4c\x46\x71':function(_0x576e0f,_0x46389c){return _0x576e0f===_0x46389c;},'\x78\x55\x57\x57\x56':_0x5d5e7f(0x678,'\x4f\x77\x30\x44'),'\x56\x49\x56\x79\x43':function(_0x46be28,_0x444565){return _0x46be28===_0x444565;},'\x58\x74\x48\x59\x5a':_0x5d5e7f(0x10c,'\x5a\x5a\x74\x75'),'\x48\x59\x67\x71\x50':_0x5d5e7f(0x472,'\x45\x79\x4d\x49'),'\x43\x53\x77\x67\x75':_0x5d5e7f(0x266,'\x5a\x5a\x74\x75'),'\x7a\x71\x59\x59\x76':_0x5d5e7f(0x55a,'\x45\x79\x4d\x49'),'\x57\x5a\x53\x79\x69':function(_0x146418,_0x19217e){return _0x146418===_0x19217e;},'\x51\x48\x75\x73\x65':_0x5d5e7f(0x50a,'\x50\x68\x72\x4c'),'\x79\x63\x42\x48\x48':_0x5d5e7f(0x348,'\x47\x77\x4f\x50'),'\x58\x73\x77\x4c\x6e':_0x5d5e7f(0x26c,'\x2a\x58\x50\x32'),'\x64\x71\x4e\x50\x42':function(_0x12fb16,_0x52d523,_0x341b6c,_0x40c3a3){return _0x12fb16(_0x52d523,_0x341b6c,_0x40c3a3);},'\x6e\x4d\x41\x4d\x6b':_0x5d5e7f(0x549,'\x31\x75\x57\x31'),'\x68\x52\x6d\x77\x54':_0x5d5e7f(0x412,'\x4c\x28\x79\x39'),'\x61\x42\x66\x56\x50':function(_0x1fdd3b,_0x2b1da0){return _0x1fdd3b===_0x2b1da0;},'\x6b\x68\x57\x48\x6e':_0x5d5e7f(0xde,'\x62\x34\x4f\x30'),'\x66\x76\x70\x47\x71':function(_0x11373b,_0x5cb376,_0x178547){return _0x11373b(_0x5cb376,_0x178547);},'\x64\x42\x70\x50\x4d':_0x5d5e7f(0x4a0,'\x31\x75\x57\x31'),'\x44\x56\x4f\x77\x55':_0x5d5e7f(0x1f6,'\x61\x63\x6c\x34'),'\x54\x57\x61\x79\x4f':function(_0x4ee57a,_0x30618b){return _0x4ee57a(_0x30618b);},'\x42\x6f\x4c\x65\x75':_0x5d5e7f(0x21f,'\x4b\x4a\x5a\x26')};try{if(_0x513c2a[_0x5d5e7f(0x36e,'\x31\x46\x65\x78')](_0x513c2a[_0x5d5e7f(0x3fd,'\x45\x50\x36\x34')],_0x513c2a[_0x5d5e7f(0x59e,'\x23\x75\x63\x5d')])){const {UUID:_0x3de50e,PROXYIP:_0x45c215,SOCKS5:_0x1af8df,SOCKS5_RELAY:_0x3f7c7f}=_0x1aeb0c;a0_0xaa7123=_0x513c2a[_0x5d5e7f(0x582,'\x79\x25\x30\x56')](_0x3de50e,a0_0xaa7123),a0_0x20f603=_0x513c2a[_0x5d5e7f(0x21d,'\x53\x2a\x79\x6c')](_0x1af8df,a0_0x20f603),a0_0x270c07=_0x513c2a[_0x5d5e7f(0x135,'\x31\x46\x65\x78')](_0x3f7c7f,a0_0x270c07);const _0x55b94d=_0x513c2a[_0x5d5e7f(0x419,'\x62\x34\x4f\x30')](a0_0x5f17a0,_0x45c215);a0_0x1b8029=_0x55b94d['\x69\x70'],a0_0x540d61=_0x55b94d[_0x5d5e7f(0x248,'\x53\x2a\x79\x6c')];if(a0_0x20f603){if(_0x513c2a[_0x5d5e7f(0x4b7,'\x23\x75\x63\x5d')](_0x513c2a[_0x5d5e7f(0x32a,'\x53\x2a\x79\x6c')],_0x513c2a[_0x5d5e7f(0x32a,'\x53\x2a\x79\x6c')]))try{if(_0x513c2a[_0x5d5e7f(0x333,'\x55\x46\x32\x61')](_0x513c2a[_0x5d5e7f(0x5b3,'\x2a\x58\x50\x32')],_0x513c2a[_0x5d5e7f(0x47b,'\x79\x25\x30\x56')])){const _0x308b8a=_0x513c2a[_0x5d5e7f(0x3ef,'\x53\x2a\x79\x6c')](a0_0x5c6906,a0_0x20f603);a0_0x11b54a=_0x513c2a[_0x5d5e7f(0x1dc,'\x31\x63\x25\x62')](a0_0x8a68c6,_0x308b8a),a0_0x51ca75=!![];}else{const _0x4b7f3c={};return _0x4b7f3c[_0x5d5e7f(0x50c,'\x28\x72\x23\x74')]=!![],_0x4b7f3c[_0x5d5e7f(0x628,'\x32\x58\x38\x23')]=_0x513c2a[_0x5d5e7f(0x3b5,'\x6e\x6f\x4a\x69')],_0x4b7f3c;}}catch(_0x40114b){if(_0x513c2a[_0x5d5e7f(0x302,'\x33\x71\x49\x51')](_0x513c2a[_0x5d5e7f(0x3df,'\x58\x45\x5d\x25')],_0x513c2a[_0x5d5e7f(0x13b,'\x39\x24\x6b\x4b')])){const _0xace260=_0x513c2a[_0x5d5e7f(0xeb,'\x5a\x5a\x74\x75')](_0x28f62f,_0xa41806);_0x4157b0=_0x513c2a[_0x5d5e7f(0x533,'\x45\x79\x4d\x49')](_0x5cf332,_0xace260),_0x5093e0=!![];}else console[_0x5d5e7f(0x1a0,'\x5a\x5a\x74\x75')](_0x40114b[_0x5d5e7f(0x5e5,'\x72\x4b\x4f\x76')]()),a0_0x51ca75=![];}else _0x7ff738[_0x5d5e7f(0x4ac,'\x73\x34\x71\x32')](_0x5d5e7f(0x2da,'\x61\x46\x59\x55'),_0x3fa788[_0x5d5e7f(0x22e,'\x69\x33\x30\x47')]||_0x4a5c0d),_0x513c2a[_0x5d5e7f(0x66e,'\x55\x46\x32\x61')](_0x4cad6d,_0x287685);}const _0x58055e=a0_0xaa7123[_0x5d5e7f(0x138,'\x61\x46\x59\x55')]('\x2c')?a0_0xaa7123[_0x5d5e7f(0x64d,'\x4c\x64\x28\x79')]('\x2c')[_0x5d5e7f(0x146,'\x53\x39\x77\x4e')](_0x4ba7e1=>_0x4ba7e1[_0x5d5e7f(0x569,'\x74\x37\x6b\x42')]()):[a0_0xaa7123],_0x637a3a=new URL(_0x3213c6[_0x5d5e7f(0x3c6,'\x53\x39\x77\x4e')]),_0x5c04be=_0x3213c6[_0x5d5e7f(0x201,'\x55\x46\x32\x61')][_0x5d5e7f(0x2e7,'\x28\x72\x23\x74')](_0x513c2a[_0x5d5e7f(0x100,'\x6b\x59\x66\x24')]),_0x1d6419=_0x637a3a[_0x5d5e7f(0x4db,'\x33\x71\x49\x51')][_0x5d5e7f(0x54a,'\x64\x71\x35\x41')](0x1),_0x15aeae=_0x513c2a[_0x5d5e7f(0x37a,'\x30\x36\x75\x46')](_0x58055e[_0x5d5e7f(0x5bb,'\x58\x45\x5d\x25')],0x1)?_0x513c2a[_0x5d5e7f(0x1c5,'\x53\x2a\x79\x6c')](_0x1d6419,_0x58055e[0x0])||_0x513c2a[_0x5d5e7f(0x6df,'\x31\x63\x25\x62')](_0x1d6419,_0x5d5e7f(0x1fc,'\x53\x2a\x79\x6c')+_0x58055e[0x0])||_0x513c2a[_0x5d5e7f(0x6be,'\x69\x52\x7a\x2a')](_0x1d6419,_0x5d5e7f(0x458,'\x74\x37\x6b\x42')+_0x58055e[0x0])?_0x58055e[0x0]:null:_0x58055e[_0x5d5e7f(0x1f8,'\x46\x4a\x31\x70')](_0xe92718=>{const _0x2994a8=_0x5d5e7f;if(_0x513c2a[_0x2994a8(0x2a8,'\x31\x63\x25\x62')](_0x513c2a[_0x2994a8(0x337,'\x72\x4b\x4f\x76')],_0x513c2a[_0x2994a8(0x6c1,'\x62\x34\x4f\x30')])){const _0x518089={};return _0x518089[_0x2994a8(0x6bc,'\x64\x71\x35\x41')]=null,_0x518089[_0x2994a8(0x448,'\x23\x75\x63\x5d')]=_0x4250c8,_0x518089;}else{const _0x1df86b=[_0xe92718,_0x2994a8(0x3e9,'\x73\x34\x71\x32')+_0xe92718,_0x2994a8(0x36b,'\x28\x72\x23\x74')+_0xe92718];return _0x1df86b[_0x2994a8(0x3b6,'\x53\x2a\x79\x6c')](_0x1a6cc3=>_0x1d6419[_0x2994a8(0x13c,'\x50\x28\x31\x55')](_0x1a6cc3));}});if(_0x513c2a[_0x5d5e7f(0x591,'\x55\x46\x32\x61')](_0x3213c6[_0x5d5e7f(0x53d,'\x6e\x6f\x4a\x69')][_0x5d5e7f(0x656,'\x39\x24\x6b\x4b')](_0x513c2a[_0x5d5e7f(0x4bc,'\x33\x71\x49\x51')]),_0x513c2a[_0x5d5e7f(0xf6,'\x53\x2a\x79\x6c')])){if(_0x513c2a[_0x5d5e7f(0x6d4,'\x33\x71\x49\x51')](_0x513c2a[_0x5d5e7f(0x40e,'\x6e\x6f\x4a\x69')],_0x513c2a[_0x5d5e7f(0x6b4,'\x4c\x41\x5a\x31')])){if(_0x513c2a[_0x5d5e7f(0x465,'\x64\x71\x35\x41')](_0x637a3a[_0x5d5e7f(0x3eb,'\x79\x25\x30\x56')],_0x513c2a[_0x5d5e7f(0x466,'\x4c\x28\x79\x39')])){if(_0x513c2a[_0x5d5e7f(0x647,'\x53\x2a\x79\x6c')](_0x513c2a[_0x5d5e7f(0x401,'\x45\x50\x36\x34')],_0x513c2a[_0x5d5e7f(0x238,'\x50\x68\x72\x4c')])){const _0xd1d612={};_0xd1d612[_0x5d5e7f(0x483,'\x33\x71\x49\x51')]=_0x513c2a[_0x5d5e7f(0x421,'\x31\x75\x57\x31')];const _0x9ccca5={};return _0x9ccca5[_0x5d5e7f(0x4c4,'\x62\x34\x4f\x30')]=0xc8,_0x9ccca5[_0x5d5e7f(0x594,'\x72\x4b\x4f\x76')]=_0xd1d612,new Response(JSON[_0x5d5e7f(0x6aa,'\x26\x56\x70\x59')](_0x3213c6['\x63\x66'],null,0x4),_0x9ccca5);}else{const _0x5260e0=_0x313488[_0x5d5e7f(0x4ec,'\x55\x46\x32\x61')]('\x3a')?_0x35e0a6[_0x5d5e7f(0x39f,'\x43\x71\x30\x64')]('\x3a')[0x1]:_0x513c2a[_0x5d5e7f(0x218,'\x30\x36\x75\x46')],_0x5d7f4b=_0x521a60[_0x5d5e7f(0x178,'\x31\x69\x77\x79')]('\x3a')[0x0],_0x110da1={};return _0x110da1['\x69\x70']=_0x5d7f4b,_0x110da1[_0x5d5e7f(0x6b7,'\x26\x56\x70\x59')]=_0x5260e0,_0x110da1;}}if(_0x15aeae){if(_0x513c2a[_0x5d5e7f(0x28a,'\x53\x2a\x79\x6c')](_0x513c2a[_0x5d5e7f(0x3ce,'\x46\x29\x32\x71')],_0x513c2a[_0x5d5e7f(0xa7,'\x46\x29\x32\x71')])){if(_0x513c2a[_0x5d5e7f(0x319,'\x45\x50\x36\x34')](_0x637a3a[_0x5d5e7f(0x4a2,'\x30\x36\x75\x46')],'\x2f'+_0x15aeae)||_0x513c2a[_0x5d5e7f(0x2fb,'\x47\x77\x4f\x50')](_0x637a3a[_0x5d5e7f(0x144,'\x34\x57\x28\x44')],_0x5d5e7f(0x454,'\x4f\x77\x30\x44')+_0x15aeae)){if(_0x513c2a[_0x5d5e7f(0x591,'\x55\x46\x32\x61')](_0x513c2a[_0x5d5e7f(0x28d,'\x5a\x21\x63\x68')],_0x513c2a[_0x5d5e7f(0x578,'\x61\x63\x6c\x34')])){const _0x3714a3=_0x637a3a[_0x5d5e7f(0x48d,'\x4f\x77\x30\x44')][_0x5d5e7f(0x60e,'\x4c\x41\x5a\x31')](_0x513c2a[_0x5d5e7f(0x253,'\x79\x25\x30\x56')]),_0x53f079=_0x45c215?_0x45c215[_0x5d5e7f(0x417,'\x23\x75\x63\x5d')]('\x2c')[_0x5d5e7f(0xc4,'\x28\x72\x23\x74')](_0x24a28f=>_0x24a28f[_0x5d5e7f(0x3b1,'\x62\x34\x4f\x30')]()):a0_0x1b8029,_0x44b356=_0x3714a3?_0x513c2a[_0x5d5e7f(0xe1,'\x4c\x64\x28\x79')](a0_0x531d9d,_0x15aeae,_0x5c04be,_0x53f079):_0x513c2a[_0x5d5e7f(0x545,'\x79\x25\x30\x56')](a0_0x46c440,_0x15aeae,_0x5c04be,_0x53f079),_0xc5412f={};_0xc5412f[_0x5d5e7f(0xc8,'\x6e\x6f\x4a\x69')]=_0x3714a3?_0x513c2a[_0x5d5e7f(0x535,'\x32\x58\x38\x23')]:_0x513c2a[_0x5d5e7f(0x4df,'\x33\x71\x49\x51')];const _0x35188c={};return _0x35188c[_0x5d5e7f(0x5f6,'\x55\x46\x32\x61')]=0xc8,_0x35188c[_0x5d5e7f(0x2ab,'\x34\x57\x28\x44')]=_0xc5412f,new Response(_0x44b356,_0x35188c);}else return[_0x38e918[_0x31c1c9[_0x13a974]],_0x547847[_0x332606[_0x513c2a[_0x5d5e7f(0x16d,'\x29\x6f\x72\x50')](_0x430a9b,0x1)]],_0x430dbd[_0x2cdd5c[_0x513c2a[_0x5d5e7f(0x5be,'\x58\x45\x5d\x25')](_0x4848c1,0x2)]],_0x2e567b[_0xda4e8e[_0x513c2a[_0x5d5e7f(0x673,'\x4c\x41\x5a\x31')](_0x4efa47,0x3)]],'\x2d',_0x1e3ea7[_0x204fc2[_0x513c2a[_0x5d5e7f(0x162,'\x4f\x77\x30\x44')](_0x2f8a08,0x4)]],_0x396c39[_0x100fb8[_0x513c2a[_0x5d5e7f(0x3f0,'\x4c\x28\x79\x39')](_0x10cc03,0x5)]],'\x2d',_0x3c07c8[_0x98ddb9[_0x513c2a[_0x5d5e7f(0x3bc,'\x31\x75\x57\x31')](_0x37c55d,0x6)]],_0x8ff58c[_0x4e68db[_0x513c2a[_0x5d5e7f(0x585,'\x4b\x4a\x5a\x26')](_0x4c9f0e,0x7)]],'\x2d',_0x141429[_0x16caf9[_0x513c2a[_0x5d5e7f(0x2df,'\x72\x58\x68\x28')](_0x41e831,0x8)]],_0x256d85[_0x15a4f2[_0x513c2a[_0x5d5e7f(0x619,'\x53\x39\x77\x4e')](_0x101d55,0x9)]],'\x2d',_0x4cb307[_0x386f34[_0x513c2a[_0x5d5e7f(0x242,'\x31\x69\x77\x79')](_0x498865,0xa)]],_0x98ac2a[_0x133764[_0x513c2a[_0x5d5e7f(0x33b,'\x23\x75\x63\x5d')](_0x5840fa,0xb)]],_0x13a55e[_0xdfdc26[_0x513c2a[_0x5d5e7f(0x3f8,'\x4f\x77\x30\x44')](_0xa45c48,0xc)]],_0xdc1e0c[_0x39ff87[_0x513c2a[_0x5d5e7f(0x688,'\x69\x33\x30\x47')](_0xbc833c,0xd)]],_0x4a53da[_0x169fdb[_0x513c2a[_0x5d5e7f(0x619,'\x53\x39\x77\x4e')](_0x325e69,0xe)]],_0x39d723[_0x14257f[_0x513c2a[_0x5d5e7f(0x392,'\x4f\x77\x30\x44')](_0x3c09e3,0xf)]]][_0x5d5e7f(0x5d0,'\x6d\x32\x25\x36')]('')[_0x5d5e7f(0x2b7,'\x72\x4b\x4f\x76')]();}else{if(_0x513c2a[_0x5d5e7f(0x261,'\x31\x63\x25\x62')](_0x637a3a[_0x5d5e7f(0x4db,'\x33\x71\x49\x51')],_0x5d5e7f(0x113,'\x50\x28\x31\x55')+_0x15aeae)){if(_0x513c2a[_0x5d5e7f(0x3f3,'\x28\x72\x23\x74')](_0x513c2a[_0x5d5e7f(0x691,'\x73\x34\x71\x32')],_0x513c2a[_0x5d5e7f(0x445,'\x55\x46\x32\x61')]))_0x513c2a[_0x5d5e7f(0x293,'\x2a\x58\x50\x32')](_0x39a21d,_0x513c2a[_0x5d5e7f(0x6c4,'\x72\x4b\x4f\x76')]);else{const _0x2c1e32={};return _0x2c1e32[_0x5d5e7f(0x588,'\x6d\x32\x25\x36')]=_0x3213c6[_0x5d5e7f(0x255,'\x28\x72\x23\x74')],_0x513c2a[_0x5d5e7f(0x310,'\x47\x77\x4f\x50')](fetch,_0x5d5e7f(0x409,'\x55\x46\x32\x61')+_0x5c04be+_0x5d5e7f(0x215,'\x46\x4a\x31\x70')+_0x15aeae+_0x5d5e7f(0x627,'\x53\x39\x77\x4e'),_0x2c1e32);}}}}else{if(_0x513c2a[_0x5d5e7f(0x670,'\x53\x4d\x68\x40')](_0x1b7745,0x35))_0x101ae0=!![];else throw new _0x228d22(_0x513c2a[_0x5d5e7f(0x20d,'\x32\x58\x38\x23')]);return;}}return _0x513c2a[_0x5d5e7f(0x209,'\x23\x75\x63\x5d')](a0_0x570da9,_0x637a3a,_0x3213c6);}else(_0x513c2a[_0x5d5e7f(0x64a,'\x50\x28\x31\x55')](_0x118337[_0x5d5e7f(0x508,'\x72\x58\x68\x28')],_0x5b3efe)||_0x513c2a[_0x5d5e7f(0xb5,'\x5a\x21\x63\x68')](_0x18b61c[_0x5d5e7f(0x694,'\x23\x75\x63\x5d')],_0x2959f0))&&_0x590c4a[_0x5d5e7f(0x16a,'\x72\x4b\x4f\x76')]();}else{if(_0x513c2a[_0x5d5e7f(0x2ea,'\x4c\x41\x5a\x31')](_0x513c2a[_0x5d5e7f(0x197,'\x6d\x32\x25\x36')],_0x513c2a[_0x5d5e7f(0x518,'\x2a\x58\x50\x32')]))return await _0x513c2a[_0x5d5e7f(0x593,'\x32\x58\x38\x23')](a0_0x270434,_0x3213c6);else _0x162e37[_0x5d5e7f(0x6a8,'\x31\x75\x57\x31')](_0x5d5e7f(0x54e,'\x72\x58\x68\x28'),_0x376577);}}else throw new _0x5543ba(_0x513c2a[_0x5d5e7f(0x655,'\x6b\x59\x66\x24')]);}catch(_0x491323){if(_0x513c2a[_0x5d5e7f(0x198,'\x61\x63\x6c\x34')](_0x513c2a[_0x5d5e7f(0x142,'\x46\x4a\x31\x70')],_0x513c2a[_0x5d5e7f(0x565,'\x50\x68\x72\x4c')])){const _0x3f2579=_0x1cce44[_0x5d5e7f(0x15d,'\x28\x72\x23\x74')]('\x2c')[_0x5d5e7f(0xc4,'\x28\x72\x23\x74')](_0x5bd366=>_0x5bd366[_0x5d5e7f(0x2f8,'\x6b\x59\x66\x24')]()),_0x19852d=_0x513c2a[_0x5d5e7f(0x5ff,'\x32\x58\x38\x23')](_0xe1eced,_0x3f2579),[_0x287e28,_0x5ecff2=_0x513c2a[_0x5d5e7f(0x249,'\x4c\x64\x28\x79')]]=_0x19852d[_0x5d5e7f(0x57b,'\x53\x4d\x68\x40')]('\x3a'),_0x3305ab={};return _0x3305ab['\x69\x70']=_0x287e28,_0x3305ab[_0x5d5e7f(0x692,'\x47\x77\x4f\x50')]=_0x5ecff2,_0x3305ab;}else return new Response(_0x491323[_0x5d5e7f(0x1c8,'\x73\x34\x71\x32')]());}}};async function a0_0x570da9(_0x38e0d5,_0x572917){const _0x6c2afd=a0_0x1db297,_0x2cf37d={};_0x2cf37d[_0x6c2afd(0x67f,'\x5a\x21\x63\x68')]=_0x6c2afd(0xc0,'\x6e\x6f\x4a\x69'),_0x2cf37d[_0x6c2afd(0x67e,'\x53\x4d\x68\x40')]=_0x6c2afd(0x534,'\x33\x71\x49\x51');const _0x4e87d7=_0x2cf37d,_0x122078=_0x572917[_0x6c2afd(0x55b,'\x29\x6f\x72\x50')][_0x6c2afd(0x21e,'\x5a\x21\x63\x68')](_0x4e87d7[_0x6c2afd(0x28b,'\x33\x71\x49\x51')]),_0x4f66d8=_0x6c2afd(0x6ae,'\x50\x68\x72\x4c')+_0x122078+_0x6c2afd(0x482,'\x5a\x5a\x74\x75'),_0x3f9f9c={};_0x3f9f9c[_0x6c2afd(0x41e,'\x26\x56\x70\x59')]=_0x4e87d7[_0x6c2afd(0x637,'\x72\x58\x68\x28')];const _0x483b02={};return _0x483b02[_0x6c2afd(0x11e,'\x23\x75\x63\x5d')]=_0x3f9f9c,new Response(_0x4f66d8,_0x483b02);}async function a0_0x270434(_0x91f67){const _0x2bac0b=a0_0x1db297,_0x4ad591={'\x6d\x48\x61\x76\x51':function(_0xf5756d,_0x224931){return _0xf5756d(_0x224931);},'\x71\x4b\x6f\x55\x45':function(_0x2108a9,_0x20209b){return _0x2108a9!==_0x20209b;},'\x78\x51\x43\x49\x50':_0x2bac0b(0x42d,'\x6d\x32\x25\x36'),'\x6d\x50\x46\x52\x6a':function(_0x9dd0c9,_0x4ce56e){return _0x9dd0c9||_0x4ce56e;},'\x4c\x78\x4d\x42\x64':_0x2bac0b(0x5e9,'\x58\x45\x5d\x25'),'\x46\x49\x63\x71\x57':function(_0x4abaf5,_0x26ba39){return _0x4abaf5+_0x26ba39;},'\x4a\x6b\x71\x6a\x42':_0x2bac0b(0x5bf,'\x43\x68\x6c\x6f'),'\x4f\x67\x59\x4d\x77':_0x2bac0b(0x224,'\x72\x58\x68\x28'),'\x7a\x71\x78\x47\x72':function(_0x38eea1,_0x509c9a){return _0x38eea1+_0x509c9a;},'\x42\x55\x65\x7a\x77':function(_0x29d6df,_0x416a1f){return _0x29d6df+_0x416a1f;},'\x41\x54\x44\x65\x64':function(_0x350d57,_0x4bc790){return _0x350d57+_0x4bc790;},'\x68\x4b\x46\x6f\x51':function(_0x3b35b1,_0x494715){return _0x3b35b1===_0x494715;},'\x52\x6e\x4d\x7a\x75':_0x2bac0b(0x4f4,'\x31\x75\x57\x31'),'\x50\x4d\x68\x69\x6b':function(_0x1d51e5,_0x1b3bc4){return _0x1d51e5!==_0x1b3bc4;},'\x57\x53\x61\x4b\x4b':_0x2bac0b(0x2f4,'\x29\x6f\x72\x50'),'\x75\x4d\x70\x61\x49':_0x2bac0b(0x147,'\x31\x63\x25\x62'),'\x68\x48\x67\x4c\x76':_0x2bac0b(0x278,'\x50\x68\x72\x4c'),'\x78\x4b\x6f\x65\x50':function(_0x3da957,_0x38d220,_0x3e5834,_0x5320b0,_0x2b062c){return _0x3da957(_0x38d220,_0x3e5834,_0x5320b0,_0x2b062c);},'\x6d\x42\x54\x77\x6e':_0x2bac0b(0x3d8,'\x46\x4a\x31\x70'),'\x50\x42\x4e\x4c\x58':_0x2bac0b(0x461,'\x26\x56\x70\x59'),'\x6a\x66\x63\x59\x4f':function(_0x36ffe8,_0x357ccf,_0x1898be){return _0x36ffe8(_0x357ccf,_0x1898be);},'\x72\x55\x52\x69\x69':_0x2bac0b(0x42b,'\x47\x77\x4f\x50'),'\x43\x4d\x74\x4f\x79':_0x2bac0b(0x1da,'\x64\x71\x35\x41'),'\x5a\x6e\x4c\x50\x55':_0x2bac0b(0xcf,'\x55\x46\x32\x61'),'\x53\x4a\x70\x62\x55':_0x2bac0b(0xbc,'\x45\x50\x36\x34'),'\x78\x55\x66\x71\x44':function(_0x35ed16,_0x2b3393){return _0x35ed16===_0x2b3393;},'\x68\x75\x67\x46\x56':_0x2bac0b(0x3d5,'\x73\x34\x71\x32'),'\x43\x6b\x6a\x67\x4f':_0x2bac0b(0x674,'\x73\x34\x71\x32'),'\x74\x4e\x65\x73\x46':_0x2bac0b(0x2c1,'\x53\x2a\x79\x6c'),'\x71\x51\x62\x5a\x4f':_0x2bac0b(0x6d6,'\x4b\x4a\x5a\x26'),'\x73\x64\x68\x77\x63':_0x2bac0b(0x4ca,'\x73\x34\x71\x32'),'\x56\x50\x71\x47\x6b':_0x2bac0b(0x31b,'\x73\x34\x71\x32'),'\x65\x6c\x53\x71\x6f':_0x2bac0b(0x425,'\x45\x50\x36\x34'),'\x6d\x6c\x45\x49\x45':_0x2bac0b(0xb6,'\x73\x34\x71\x32'),'\x47\x44\x6a\x41\x58':_0x2bac0b(0x25b,'\x45\x50\x36\x34'),'\x4d\x48\x76\x54\x53':function(_0x40566c,_0x27000c,_0x55d56c,_0x1f3e12,_0x5a89a1,_0x3f501b,_0x298126,_0x35bbb7,_0x5d33ec){return _0x40566c(_0x27000c,_0x55d56c,_0x1f3e12,_0x5a89a1,_0x3f501b,_0x298126,_0x35bbb7,_0x5d33ec);},'\x42\x53\x79\x6b\x7a':_0x2bac0b(0x362,'\x33\x71\x49\x51'),'\x66\x66\x66\x73\x71':function(_0x280d4f,_0x2c8cb1){return _0x280d4f!==_0x2c8cb1;},'\x46\x46\x7a\x71\x4f':_0x2bac0b(0x571,'\x6d\x32\x25\x36'),'\x78\x6a\x75\x4c\x62':_0x2bac0b(0x371,'\x4c\x28\x79\x39'),'\x79\x45\x50\x71\x4f':_0x2bac0b(0x127,'\x31\x63\
+// @ts-ignore
+import { connect } from 'cloudflare:sockets';
+
+// How to generate your own UUID:
+// [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
+let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+
+const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
+
+// if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
+let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+// use single proxyip instead of random
+// let proxyIP = 'cdn.xn--b6gac.eu.org';
+// ipv6 proxyIP example remove comment to use
+// let proxyIP = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
+
+// Example:  user:pass@host:port  or  host:port
+let socks5Address = '';
+// socks5Relay is true, will proxy all traffic to socks5Address, otherwise socks5Address only be used for cloudflare ips
+let socks5Relay = false;
+
+if (!isValidUUID(userID)) {
+	throw new Error('uuid is not valid');
+}
+
+let parsedSocks5Address = {};
+let enableSocks = false;
+
+
+export default {
+	/**
+	 * @param {import("@cloudflare/workers-types").Request} request
+	 * @param {{UUID: string, PROXYIP: string, SOCKS5: string, SOCKS5_RELAY: string}} env
+	 * @param {import("@cloudflare/workers-types").ExecutionContext} _ctx
+	 * @returns {Promise<Response>}
+	 */
+	async fetch(request, env, _ctx) {
+		try {
+			const { UUID, PROXYIP, SOCKS5, SOCKS5_RELAY } = env;
+			userID = UUID || userID;
+			proxyIP = PROXYIP || proxyIP;
+			socks5Address = SOCKS5 || socks5Address;
+			socks5Relay = SOCKS5_RELAY || socks5Relay;
+
+			if (socks5Address) {
+				try {
+					parsedSocks5Address = socks5AddressParser(socks5Address);
+					enableSocks = true;
+				} catch (err) {
+					console.log(err.toString());
+					enableSocks = false;
+				}
+			}
+
+			const userID_Path = userID.includes(',') ? userID.split(',')[0] : userID;
+			const url = new URL(request.url);
+			const host = request.headers.get('Host');
+
+			if (request.headers.get('Upgrade') !== 'websocket') {
+				switch (url.pathname) {
+					case '/cf':
+						return new Response(JSON.stringify(request.cf, null, 4), {
+							status: 200,
+							headers: { "Content-Type": "application/json;charset=utf-8" },
+						});
+					case `/${userID_Path}`:
+						return new Response(getConfig(userID, host), {
+							status: 200,
+							headers: { "Content-Type": "text/html; charset=utf-8" },
+						});
+					case `/sub/${userID_Path}`:
+						return new Response(btoa(GenSub(userID, host)), {
+							status: 200,
+							headers: { "Content-Type": "text/plain;charset=utf-8" },
+						});
+					case `/bestip/${userID_Path}`:
+						return fetch(`https://sub.xf.free.hr/auto?host=${host}&uuid=${userID}&path=/`, { headers: request.headers });
+					default:
+						return handleDefaultPath(url, request);
+				}
+			} else {
+				return await ProtocolOverWSHandler(request);
+			}
+		} catch (err) {
+			return new Response(err.toString());
+		}
+	},
+};
+
+async function handleDefaultPath(url, request) {
+	const randomHostname = hostnames[Math.floor(Math.random() * hostnames.length)];
+	const newHeaders = new Headers(request.headers);
+	newHeaders.set('cf-connecting-ip', '1.2.3.4');
+	newHeaders.set('x-forwarded-for', '1.2.3.4');
+	newHeaders.set('x-real-ip', '1.2.3.4');
+	newHeaders.set('referer', 'https://www.google.com/search?q=edtunnel');
+
+	const proxyUrl = 'https://' + randomHostname + url.pathname + url.search;
+	const modifiedRequest = new Request(proxyUrl, {
+		method: request.method,
+		headers: newHeaders,
+		body: request.body,
+		redirect: 'manual',
+	});
+
+	const proxyResponse = await fetch(modifiedRequest, { redirect: 'manual' });
+	if ([301, 302].includes(proxyResponse.status)) {
+		return new Response(`Redirects to ${randomHostname} are not allowed.`, {
+			status: 403,
+			statusText: 'Forbidden',
+		});
+	}
+	return proxyResponse;
+}
+
+/**
+ * Handles protocol over WebSocket requests by creating a WebSocket pair, accepting the WebSocket connection, and processing the protocol header.
+ * @param {import("@cloudflare/workers-types").Request} request The incoming request object.
+ * @returns {Promise<Response>} A Promise that resolves to a WebSocket response object.
+ */
+async function ProtocolOverWSHandler(request) {
+
+	/** @type {import("@cloudflare/workers-types").WebSocket[]} */
+	// @ts-ignore
+	const webSocketPair = new WebSocketPair();
+	const [client, webSocket] = Object.values(webSocketPair);
+
+	webSocket.accept();
+
+	let address = '';
+	let portWithRandomLog = '';
+	const log = (/** @type {string} */ info, /** @type {string | undefined} */ event) => {
+		console.log(`[${address}:${portWithRandomLog}] ${info}`, event || '');
+	};
+	const earlyDataHeader = request.headers.get('sec-websocket-protocol') || '';
+
+	const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+
+	/** @type {{ value: import("@cloudflare/workers-types").Socket | null}}*/
+	let remoteSocketWapper = {
+		value: null,
+	};
+	let isDns = false;
+
+	// ws --> remote
+	readableWebSocketStream.pipeTo(new WritableStream({
+		async write(chunk, controller) {
+			if (isDns) {
+				return await handleDNSQuery(chunk, webSocket, null, log);
+			}
+			if (remoteSocketWapper.value) {
+				const writer = remoteSocketWapper.value.writable.getWriter()
+				await writer.write(chunk);
+				writer.releaseLock();
+				return;
+			}
+
+			const {
+				hasError,
+				message,
+				addressType,
+				portRemote = 443,
+				addressRemote = '',
+				rawDataIndex,
+				ProtocolVersion = new Uint8Array([0, 0]),
+				isUDP,
+			} = processProtocolHeader(chunk, userID);
+			address = addressRemote;
+			portWithRandomLog = `${portRemote}--${Math.random()} ${isUDP ? 'udp ' : 'tcp '
+				} `;
+			if (hasError) {
+				// controller.error(message);
+				throw new Error(message); // cf seems has bug, controller.error will not end stream
+				// webSocket.close(1000, message);
+				return;
+			}
+			// if UDP but port not DNS port, close it
+			if (isUDP) {
+				if (portRemote === 53) {
+					isDns = true;
+				} else {
+					// controller.error('UDP proxy only enable for DNS which is port 53');
+					throw new Error('UDP proxy only enable for DNS which is port 53'); // cf seems has bug, controller.error will not end stream
+					return;
+				}
+			}
+			// ["version", "附加信息长度 N"]
+			const ProtocolResponseHeader = new Uint8Array([ProtocolVersion[0], 0]);
+			const rawClientData = chunk.slice(rawDataIndex);
+
+			if (isDns) {
+				return handleDNSQuery(rawClientData, webSocket, ProtocolResponseHeader, log);
+			}
+			handleTCPOutBound(remoteSocketWapper, addressType, addressRemote, portRemote, rawClientData, webSocket, ProtocolResponseHeader, log);
+		},
+		close() {
+			log(`readableWebSocketStream is close`);
+		},
+		abort(reason) {
+			log(`readableWebSocketStream is abort`, JSON.stringify(reason));
+		},
+	})).catch((err) => {
+		log('readableWebSocketStream pipeTo error', err);
+	});
+
+	return new Response(null, {
+		status: 101,
+		// @ts-ignore
+		webSocket: client,
+	});
+}
+
+/**
+ * Handles outbound TCP connections.
+ *
+ * @param {any} remoteSocket 
+ * @param {string} addressRemote The remote address to connect to.
+ * @param {number} portRemote The remote port to connect to.
+ * @param {Uint8Array} rawClientData The raw client data to write.
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket The WebSocket to pass the remote socket to.
+ * @param {Uint8Array} protocolResponseHeader The protocol response header.
+ * @param {function} log The logging function.
+ * @returns {Promise<void>} The remote socket.
+ */
+async function handleTCPOutBound(remoteSocket, addressType, addressRemote, portRemote, rawClientData, webSocket, ProtocolResponseHeader, log,) {
+	async function connectAndWrite(address, port, socks = false) {
+		/** @type {import("@cloudflare/workers-types").Socket} */
+		let tcpSocket;
+		if (socks5Relay) {
+			tcpSocket = await socks5Connect(addressType, address, port, log)
+		} else {
+			tcpSocket = socks ? await socks5Connect(addressType, address, port, log)
+				: connect({
+					hostname: address,
+					port: port,
+				});
+		}
+		remoteSocket.value = tcpSocket;
+		log(`connected to ${address}:${port}`);
+		const writer = tcpSocket.writable.getWriter();
+		await writer.write(rawClientData); // first write, normal is tls client hello
+		writer.releaseLock();
+		return tcpSocket;
+	}
+
+	// if the cf connect tcp socket have no incoming data, we retry to redirect ip
+	async function retry() {
+		if (enableSocks) {
+			tcpSocket = await connectAndWrite(addressRemote, portRemote, true);
+		} else {
+			tcpSocket = await connectAndWrite(proxyIP || addressRemote, portRemote);
+		}
+		// no matter retry success or not, close websocket
+		tcpSocket.closed.catch(error => {
+			console.log('retry tcpSocket closed error', error);
+		}).finally(() => {
+			safeCloseWebSocket(webSocket);
+		})
+		remoteSocketToWS(tcpSocket, webSocket, ProtocolResponseHeader, null, log);
+	}
+
+	let tcpSocket = await connectAndWrite(addressRemote, portRemote);
+
+	// when remoteSocket is ready, pass to websocket
+	// remote--> ws
+	remoteSocketToWS(tcpSocket, webSocket, ProtocolResponseHeader, retry, log);
+}
+
+/**
+ * Creates a readable stream from a WebSocket server, allowing for data to be read from the WebSocket.
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocketServer The WebSocket server to create the readable stream from.
+ * @param {string} earlyDataHeader The header containing early data for WebSocket 0-RTT.
+ * @param {(info: string)=> void} log The logging function.
+ * @returns {ReadableStream} A readable stream that can be used to read data from the WebSocket.
+ */
+function makeReadableWebSocketStream(webSocketServer, earlyDataHeader, log) {
+	let readableStreamCancel = false;
+	const stream = new ReadableStream({
+		start(controller) {
+			webSocketServer.addEventListener('message', (event) => {
+				const message = event.data;
+				controller.enqueue(message);
+			});
+
+			webSocketServer.addEventListener('close', () => {
+				safeCloseWebSocket(webSocketServer);
+				controller.close();
+			});
+
+			webSocketServer.addEventListener('error', (err) => {
+				log('webSocketServer has error');
+				controller.error(err);
+			});
+			const { earlyData, error } = base64ToArrayBuffer(earlyDataHeader);
+			if (error) {
+				controller.error(error);
+			} else if (earlyData) {
+				controller.enqueue(earlyData);
+			}
+		},
+
+		pull(_controller) {
+			// if ws can stop read if stream is full, we can implement backpressure
+			// https://streams.spec.whatwg.org/#example-rs-push-backpressure
+		},
+
+		cancel(reason) {
+			log(`ReadableStream was canceled, due to ${reason}`)
+			readableStreamCancel = true;
+			safeCloseWebSocket(webSocketServer);
+		}
+	});
+
+	return stream;
+}
+
+// https://xtls.github.io/development/protocols/protocol.html
+// https://github.com/zizifn/excalidraw-backup/blob/main/v2ray-protocol.excalidraw
+
+/**
+ * Processes the protocol header buffer and returns an object with the relevant information.
+ * @param {ArrayBuffer} protocolBuffer The protocol header buffer to process.
+ * @param {string} userID The user ID to validate against the UUID in the protocol header.
+ * @returns {{
+ *  hasError: boolean,
+ *  message?: string,
+ *  addressRemote?: string,
+ *  addressType?: number,
+ *  portRemote?: number,
+ *  rawDataIndex?: number,
+ *  protocolVersion?: Uint8Array,
+ *  isUDP?: boolean
+ * }} An object with the relevant information extracted from the protocol header buffer.
+ */
+function processProtocolHeader(protocolBuffer, userID) {
+	if (protocolBuffer.byteLength < 24) {
+		return { hasError: true, message: 'invalid data' };
+	}
+
+	const dataView = new DataView(protocolBuffer);
+	const version = dataView.getUint8(0);
+	const slicedBufferString = stringify(new Uint8Array(protocolBuffer.slice(1, 17)));
+
+	const uuids = userID.includes(',') ? userID.split(",") : [userID];
+	const isValidUser = uuids.some(uuid => slicedBufferString === uuid.trim()) ||
+		(uuids.length === 1 && slicedBufferString === uuids[0].trim());
+
+	console.log(`userID: ${slicedBufferString}`);
+
+	if (!isValidUser) {
+		return { hasError: true, message: 'invalid user' };
+	}
+
+	const optLength = dataView.getUint8(17);
+	const command = dataView.getUint8(18 + optLength);
+
+	if (command !== 1 && command !== 2) {
+		return { hasError: true, message: `command ${command} is not supported, command 01-tcp,02-udp,03-mux` };
+	}
+
+	const portIndex = 18 + optLength + 1;
+	const portRemote = dataView.getUint16(portIndex);
+	const addressType = dataView.getUint8(portIndex + 2);
+	let addressValue, addressLength, addressValueIndex;
+
+	switch (addressType) {
+		case 1:
+			addressLength = 4;
+			addressValueIndex = portIndex + 3;
+			addressValue = new Uint8Array(protocolBuffer.slice(addressValueIndex, addressValueIndex + addressLength)).join('.');
+			break;
+		case 2:
+			addressLength = dataView.getUint8(portIndex + 3);
+			addressValueIndex = portIndex + 4;
+			addressValue = new TextDecoder().decode(protocolBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
+			break;
+		case 3:
+			addressLength = 16;
+			addressValueIndex = portIndex + 3;
+			addressValue = Array.from({ length: 8 }, (_, i) => dataView.getUint16(addressValueIndex + i * 2).toString(16)).join(':');
+			break;
+		default:
+			return { hasError: true, message: `invalid addressType: ${addressType}` };
+	}
+
+	if (!addressValue) {
+		return { hasError: true, message: `addressValue is empty, addressType is ${addressType}` };
+	}
+
+	return {
+		hasError: false,
+		addressRemote: addressValue,
+		addressType,
+		portRemote,
+		rawDataIndex: addressValueIndex + addressLength,
+		protocolVersion: new Uint8Array([version]),
+		isUDP: command === 2
+	};
+}
+
+
+/**
+ * Converts a remote socket to a WebSocket connection.
+ * @param {import("@cloudflare/workers-types").Socket} remoteSocket The remote socket to convert.
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket The WebSocket to connect to.
+ * @param {ArrayBuffer | null} protocolResponseHeader The protocol response header.
+ * @param {(() => Promise<void>) | null} retry The function to retry the connection if it fails.
+ * @param {(info: string) => void} log The logging function.
+ * @returns {Promise<void>} A Promise that resolves when the conversion is complete.
+ */
+async function remoteSocketToWS(remoteSocket, webSocket, protocolResponseHeader, retry, log) {
+	let hasIncomingData = false;
+
+	try {
+		await remoteSocket.readable.pipeTo(
+			new WritableStream({
+				async write(chunk) {
+					if (webSocket.readyState !== WS_READY_STATE_OPEN) {
+						throw new Error('WebSocket is not open');
+					}
+
+					hasIncomingData = true;
+
+					if (protocolResponseHeader) {
+						webSocket.send(await new Blob([protocolResponseHeader, chunk]).arrayBuffer());
+						protocolResponseHeader = null;
+					} else {
+						webSocket.send(chunk);
+					}
+				},
+				close() {
+					log(`Remote connection readable closed. Had incoming data: ${hasIncomingData}`);
+				},
+				abort(reason) {
+					console.error(`Remote connection readable aborted:`, reason);
+				},
+			})
+		);
+	} catch (error) {
+		console.error(`remoteSocketToWS error:`, error.stack || error);
+		safeCloseWebSocket(webSocket);
+	}
+
+	if (!hasIncomingData && retry) {
+		log(`No incoming data, retrying`);
+		await retry();
+	}
+}
+/**
+ * Decodes a base64 string into an ArrayBuffer.
+ * @param {string} base64Str The base64 string to decode.
+ * @returns {{earlyData: ArrayBuffer|null, error: Error|null}} An object containing the decoded ArrayBuffer or null if there was an error, and any error that occurred during decoding or null if there was no error.
+ */
+function base64ToArrayBuffer(base64Str) {
+	if (!base64Str) {
+		return { earlyData: null, error: null };
+	}
+	try {
+		// Convert modified Base64 for URL (RFC 4648) to standard Base64
+		base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+		// Decode Base64 string
+		const binaryStr = atob(base64Str);
+		// Convert binary string to ArrayBuffer
+		const buffer = new ArrayBuffer(binaryStr.length);
+		const view = new Uint8Array(buffer);
+		for (let i = 0; i < binaryStr.length; i++) {
+			view[i] = binaryStr.charCodeAt(i);
+		}
+		return { earlyData: buffer, error: null };
+	} catch (error) {
+		return { earlyData: null, error };
+	}
+}
+
+/**
+ * Checks if a given string is a valid UUID.
+ * @param {string} uuid The string to validate as a UUID.
+ * @returns {boolean} True if the string is a valid UUID, false otherwise.
+ */
+function isValidUUID(uuid) {
+	// More precise UUID regex pattern
+	const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+	return uuidRegex.test(uuid);
+}
+
+const WS_READY_STATE_OPEN = 1;
+const WS_READY_STATE_CLOSING = 2;
+
+/**
+ * Closes a WebSocket connection safely without throwing exceptions.
+ * @param {import("@cloudflare/workers-types").WebSocket} socket The WebSocket connection to close.
+ */
+function safeCloseWebSocket(socket) {
+	try {
+		if (socket.readyState === WS_READY_STATE_OPEN || socket.readyState === WS_READY_STATE_CLOSING) {
+			socket.close();
+		}
+	} catch (error) {
+		console.error('safeCloseWebSocket error:', error);
+	}
+}
+
+const byteToHex = Array.from({ length: 256 }, (_, i) => (i + 0x100).toString(16).slice(1));
+
+function unsafeStringify(arr, offset = 0) {
+	return [
+		byteToHex[arr[offset]],
+		byteToHex[arr[offset + 1]],
+		byteToHex[arr[offset + 2]],
+		byteToHex[arr[offset + 3]],
+		'-',
+		byteToHex[arr[offset + 4]],
+		byteToHex[arr[offset + 5]],
+		'-',
+		byteToHex[arr[offset + 6]],
+		byteToHex[arr[offset + 7]],
+		'-',
+		byteToHex[arr[offset + 8]],
+		byteToHex[arr[offset + 9]],
+		'-',
+		byteToHex[arr[offset + 10]],
+		byteToHex[arr[offset + 11]],
+		byteToHex[arr[offset + 12]],
+		byteToHex[arr[offset + 13]],
+		byteToHex[arr[offset + 14]],
+		byteToHex[arr[offset + 15]]
+	].join('').toLowerCase();
+}
+
+function stringify(arr, offset = 0) {
+	const uuid = unsafeStringify(arr, offset);
+	if (!isValidUUID(uuid)) {
+		throw new TypeError("Stringified UUID is invalid");
+	}
+	return uuid;
+}
+
+
+/**
+ * Handles outbound UDP traffic by transforming the data into DNS queries and sending them over a WebSocket connection.
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket The WebSocket connection to send the DNS queries over.
+ * @param {ArrayBuffer} protocolResponseHeader The protocol response header.
+ * @param {(string) => void} log The logging function.
+ * @returns {{write: (chunk: Uint8Array) => void}} An object with a write method that accepts a Uint8Array chunk to write to the transform stream.
+ */
+async function handleUDPOutBound(webSocket, protocolResponseHeader, log) {
+
+	let isprotocolHeaderSent = false;
+	const transformStream = new TransformStream({
+		start(_controller) {
+
+		},
+		transform(chunk, controller) {
+			// udp message 2 byte is the the length of udp data
+			// TODO: this should have bug, beacsue maybe udp chunk can be in two websocket message
+			for (let index = 0; index < chunk.byteLength;) {
+				const lengthBuffer = chunk.slice(index, index + 2);
+				const udpPakcetLength = new DataView(lengthBuffer).getUint16(0);
+				const udpData = new Uint8Array(
+					chunk.slice(index + 2, index + 2 + udpPakcetLength)
+				);
+				index = index + 2 + udpPakcetLength;
+				controller.enqueue(udpData);
+			}
+		},
+		flush(_controller) {
+		}
+	});
+
+	// only handle dns udp for now
+	transformStream.readable.pipeTo(new WritableStream({
+		async write(chunk) {
+			const resp = await fetch(dohURL, // dns server url
+				{
+					method: 'POST',
+					headers: {
+						'content-type': 'application/dns-message',
+					},
+					body: chunk,
+				})
+			const dnsQueryResult = await resp.arrayBuffer();
+			const udpSize = dnsQueryResult.byteLength;
+			// console.log([...new Uint8Array(dnsQueryResult)].map((x) => x.toString(16)));
+			const udpSizeBuffer = new Uint8Array([(udpSize >> 8) & 0xff, udpSize & 0xff]);
+			if (webSocket.readyState === WS_READY_STATE_OPEN) {
+				log(`doh success and dns message length is ${udpSize}`);
+				if (isprotocolHeaderSent) {
+					webSocket.send(await new Blob([udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+				} else {
+					webSocket.send(await new Blob([protocolRespons
